@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PhunEngineer - Engineering with Fun</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        .container { max-width: 800px; margin: 0 auto; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚧 phunengineer.com 🚀</h1>
+        <h2>Something amazing is being built...</h2>
+        <p>Engineering projects + Fun = PhunEngineer!</p>
+        <p>Launching soon. Stay tuned!</p>
+        <!-- Add your email for updates or social links -->
+    </div>
+</body>
+</html>
